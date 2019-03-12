@@ -1,9 +1,9 @@
-Run with npm:
-$ npm install
+## Run with npm:
+$ npm install<br>
 $ npm start
 
-Run with docker:
-$ docker-compose up -d --build
+## Run with docker:
+$ docker-compose up -d --build<br>
 
-Stop docker:
+## Stop docker:
 $ docker-compose stop
